@@ -15,6 +15,8 @@ body {
 	border:20px solid #3000ff;
 	border-radius:20px;
 	box-shadow: 10px 10px 40px #000070;
+	padding: 5px;
+	justify-self:center;
 }
 
 .container:hover{
@@ -28,7 +30,7 @@ h2{
 
 .image_container {
     width: 50%;
-    height: auto;
+    height:min-content;
 }
 .more_info{
     text-align: center;
