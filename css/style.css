@@ -16,7 +16,7 @@ body {
 	border-radius:20px;
 	box-shadow: 10px 10px 40px #000070;
 	padding: 5px;
-	justify-self:center;
+
 }
 
 .container:hover{
@@ -27,9 +27,12 @@ h2{
 	text-align:center;
     font-weight: bold;
 }
-
+p{
+	justify-items:center;
+}
 .image_container {
 	align-items: center;
+	padding: 5px;
 }
 .more_info{
     text-align: center;
